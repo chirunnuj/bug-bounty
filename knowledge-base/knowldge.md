@@ -62,4 +62,7 @@
 
 - [Retire.js](https://portswigger.net/bappstore/36238b534a78494db9bf2d03f112265c) [**BurpSuite Extension**]
 - [Uproot.js](https://github.com/0xDexter0us/uproot-JS) [**BurpSuite Extension**] downloads javascript files
-- [JS Link Finder](https://portswigger.net/bappstore/0e61c786db0c4ac787a08c4516d52ccf) [**BurpSuite Extension**] scans JavaScript for endpoints links.
+- [JS Link Finder](https://portswigger.net/bappstore
+- /0e61c786db0c4ac787a08c4516d52ccf) [**BurpSuite Extension**] scans JavaScript for endpoints links.
+- [JS Parser]()
+- [Link Finder](https://github.com/GerbenJavado/LinkFinder)
